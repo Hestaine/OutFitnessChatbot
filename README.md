@@ -14,3 +14,12 @@ A fitness chatbot me, Ace, and Fagan created.
 10. Best exercises to do
 11. How to lose stomach fat
 12. How to get six packs
+
+## Style
+- Vibrant
+- balanced language
+- easy navigation
+- no ads
+
+## Color 
+- Background-color: #180000
