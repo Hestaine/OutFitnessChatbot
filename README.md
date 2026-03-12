@@ -16,6 +16,7 @@ A fitness chatbot me, Ace, and Fagan created.
 12. How to get six packs?
 
 ##Answers
+
 How can I lose weight fast?
 Focus on a balanced diet, regular exercise, and stay consistent. Avoid crash diets.
 
