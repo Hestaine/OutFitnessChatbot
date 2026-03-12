@@ -25,6 +25,7 @@ b) Workout suggestions 🏋️‍♂️
 
 
 If a)Great! 🥗 Focus on eating more protein, vegetables, and fruits, while limiting sugar and processed foods. Tracking your meals and staying hydrated will help you reach your fitness goals faster.
+
 If b)Awesome! 🏋️‍♂️ Combine cardio and strength training 3–5 times a week, focusing on exercises like squats, push-ups, and dumbbell rows. Consistency and gradually increasing intensity will help you see results faster.
 
 2.How can I gain muscle fast?
