@@ -75,6 +75,10 @@ Combine cardio, strength training, and a healthy diet—spot reduction isn’t p
 
 Reduce body fat with diet and cardio, and strengthen abs with core exercises.
 
+“Hey there! 👋 Ready to start your fitness journey? 💪 Safe weight loss comes from a mix of healthy eating and regular exercise. Would you like some:
+a) Diet tips 🥗
+b) Workout suggestions 🏋️‍♂️”
+
 ## Style
 - Vibrant
 - balanced language
