@@ -3,17 +3,19 @@ A fitness chatbot me, Ace, and Fagan created.
 
 ## Questions
 1. How to lose weight fast?
-2. how can I gain muscle fast
-3. How often should I work out?
-4. How to track my diet?
-5. Why are my muscles not growing?
-6. Why am I not losing weight?
-7. How long will it take me to see some progress?
-8. How do I stay motivated?
-9. Is a gym subscription to do?
-10. Best exercises to do?
-11. How to lose stomach fat?
-12. How to get six packs?
+2. how can I gain muscle fast Are you a:
+ a) Beginner | b) Intermediate | c) Advanced
+
+4. How often should I work out?
+5. How to track my diet?
+6. Why are my muscles not growing?
+7. Why am I not losing weight?
+8. How long will it take me to see some progress?
+9. How do I stay motivated?
+10. Is a gym subscription to do?
+11. Best exercises to do?
+12. How to lose stomach fat?
+13. How to get six packs?
 
 ##Answers
 
